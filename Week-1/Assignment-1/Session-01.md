@@ -1,9 +1,9 @@
 # Assignment
-1. What is a protocol stack, and how is it used in web development?
-2. What are the different types of web servers, and how do they differ in terms of functionality and performance?
-3. What is web hosting, and what are the different types of hosting services available for websites?
-4. What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?
-5. What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
+# What is a protocol stack, and how is it used in web development?
+# What are the different types of web servers, and how do they differ in terms of functionality and performance?
+# What is web hosting, and what are the different types of hosting services available for websites?
+# What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?
+# What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
 
 1. What is a protocol stack, and how is it used in web development?
     A protocol stack, also known as a network stack, is a set of protocols that work together to enable communication between different devices and software applications. It's a way of organizing communication protocols in layers, where each layer provides a specific function and communicates with the layers above and below it.
